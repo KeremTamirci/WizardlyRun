@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7de135a9231528e4ba092cb5c305a12f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mochiy Pop One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d9e0dba8a896b94f82e92ea93fa03a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
